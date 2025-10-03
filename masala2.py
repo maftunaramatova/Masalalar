@@ -109,8 +109,8 @@
 # P = int(input("Asos kiriting:"))
 # r = int(input("Foiz stavkasi: "))
 # t = int(input("Yillar: "))
-# tinterest = P * r / 100 * t
-# print(f"Jami summa : {tinterest}")
+# interest = P * r / 100 * t
+# print(f"Jami summa : {interest}")
 
 ##9-Masala:
 # base_qty = int(input("Asosiy miqdor grammda: "))
@@ -124,6 +124,7 @@
 # tip = bill * 0.10
 # total = bill + tip
 # print(f"Tip : {tip}, Jami to'lov: {total}")
+
 
 
 
